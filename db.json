@@ -11,7 +11,7 @@
       "name": "uninsured motorist bodily injury",
       "description": "If you’re hit by a driver who doesn’t have insurance or the victim of a hit-and-run, this pays for you and your passengers’ injuries." 
     },
-     {
+    {
       "id": 3, 
       "name": "underinsured motorist bodily injury",
       "description": "If you’re hit by a driver who doesn’t have enough insurance (their limits are not high enough), this will pay for you and your passengers’ injuries."
@@ -21,6 +21,6 @@
       "name": "uninsured motorist property damage",
       "description": "If you’re hit by a driver who doesn’t have insurance – or enough insurance (their limits are too low to cover the damage) – this will pay for damages to your vehicle. You’re also covered in the case of a hit-and-run."
     }
-  ]
+ ]
 }
   
