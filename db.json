@@ -3,10 +3,68 @@
     {
       "id":1,
       "name": "Contact Information"
+    },
+    {
+      "id":2, 
+      "name": "FAQ"
+    },
+    {
+      "id":3, 
+      "name": "Insurance Terms"
     }
-    ]
-}
-{
+   ]
+  
+  ] 
+  
+  "freqAskQs_Dictionary": [
+    {
+      "id": 1,
+      "name": "days",
+      "description": "The Hartford is open: Monday through Friday."
+    }
+    {
+      "id": 2, 
+      "name": "hours",
+      "description": "The Hartford is open 9am to 5pm."
+    }
+    {
+      "id": 3, 
+      "name": "parking and directions",
+      "description": "The Parking Information page provides you with the addresses and arrival instructions to various locations of The Hartford. If your office is not listed, please contact your recruiter."
+    }
+    {
+      "id": 4,
+      "name": "benefits eligibility",
+      "description": "You are eligible for benefits from your start date of hire, and you have 31 days to elect benefits. Your coverage will be effective as of your hire date,: regardless of when you enroll within that 31 day window. After 90 days of service, you are eligible to participate in The Hartford’s Investment and Savings Plan, which is our 401(k) plan. After this service requirement has been met: and if you haven’t yet elected to participate on your own, you will automatically be enrolled in the ISP at six percent of your eligible pay."
+    }
+    {
+      "id": 5,
+      "name": "benefits you offer",
+      "description": "Prior to your first day, you can get benefits information by visiting The Hartford’s Benefits Resource Site. The Hartford will also send you information about health and insurance benefits: and the Investment and Savings Plan, our 401(k) plan. After your first day, you will be able to access Fidelity NetBenefits®, from work or home to enroll in your benefits. From NetBenefits®, you also can view the Summary Plan Descriptions – you can go to the Reference Library on the home page.  Additionally, you can find tools to help you get the most out of your health and financial benefits. If you have additional questions after reviewing the site, you can refer to the Contact Us section for all available benefit support."
+    }
+    {
+      "id": 6,
+      "name": "Fidelity NetBenefits",
+      "description": "As of your first day, you will be able to access The Hartford’s benefit information and your previous employers’ financial account information on NetBenefits®. You can use your existing username and password to access the site."
+    }
+    { 
+      "id": 7,
+      "name": "health and well being programs",
+      "description": "Review the My Wellness at Work ebook: to understand all the well-being programs available to you and your family members – and how to earn credits towards your health premiums if you are enrolled in The Hartford’s health plan."
+    }
+  ]
+
+  "contact_Info_Dictionary": [
+    {
+      "id": 2, 
+      "name": "hours",
+      "description": "The Hartford is open 9am to 5pm."
+    }
+    {
+    
+    }
+   ]
+
   "insurance_terms":[
     {
       "id": 1, 
@@ -27,6 +85,10 @@
       "id": 4, 
       "name": "uninsured motorist property damage",
       "description": "If you’re hit by a driver who doesn’t have insurance – or enough insurance (their limits are too low to cover the damage) – this will pay for damages to your vehicle. You’re also covered in the case of a hit-and-run."
+    }
+    {
+      "id":5, 
+      "name" 
     }
  ]
 }
