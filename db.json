@@ -12,7 +12,7 @@
       "id":3, 
       "name": "Insurance Terms"
     }
-   ]
+   ],
   
   
   "freqAskQs_Dictionary": [
@@ -51,7 +51,7 @@
       "name": "health and well being programs",
       "description": "Review the My Wellness at Work ebook: to understand all the well-being programs available to you and your family members – and how to earn credits towards your health premiums if you are enrolled in The Hartford’s health plan."
     }
-  ]
+  ],
 
   "contact_Info_Dictionary": [
     {
@@ -64,7 +64,7 @@
       "name": "phone number",
       "description": "The phone number for the Hartford is 860-547-5000."
     }
-   ]
+   ],
 
   "insurance_terms":[
     {
@@ -162,7 +162,7 @@
       "name": "replacement cost coverage",
       "description": "If you own a new car and are in an accident within the first 15 months* or 15,000 miles, this pays the full cost of repair or replacement of your car with no deduction for depreciation."
     }
-   ]
+   ],
 
 
   "Allfacts_Dictionary": [
