@@ -142,6 +142,21 @@
       "id": 16,
       "name": "gap insurance",
       "description": "If you lease or finance a car and it’s wrecked or stolen, this pays for the difference (or gap) between what your vehicle  is worth and the amount you still owe the leasing or finance company."
+    },
+    {
+      "id": 17,
+      "name": "medical payments",
+      "description": "If you’re in an accident with other passengers and household family members in your car, this pays for medical expenses – regardless of who’s at fault. Coverage also includes medical expense payment if you’re hit by a car as a pedestrian or riding in a car as a passenger."
+    },
+    {
+      "id": 18,
+      "name": "motorhome personal liability",
+      "description": "If your motorhome is being used as a residence and a visitor is injured or their property is damaged, this pays for legal and medical costs."
+    },
+    {
+      "id": 19,
+      "name": "replacement cost coverage",
+      "description": "If you own a new car and are in an accident within the first 15 months* or 15,000 miles, this pays the full cost of repair or replacement of your car with no deduction for depreciation."
     }
    ]
 }
