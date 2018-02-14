@@ -13,8 +13,6 @@
       "name": "Insurance Terms"
     }
    ],
-  
-  
   "freqAskQs_Dictionary": [
     {
       "id": 1,
@@ -52,7 +50,6 @@
       "description": "Review the My Wellness at Work ebook: to understand all the well-being programs available to you and your family members – and how to earn credits towards your health premiums if you are enrolled in The Hartford’s health plan."
     }
   ],
-
   "contact_Info_Dictionary": [
     {
       "id": 1, 
@@ -65,7 +62,6 @@
       "description": "The phone number for the Hartford is 860-547-5000."
     }
    ],
-
   "insurance_terms":[
     {
       "id": 1, 
